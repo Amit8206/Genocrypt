@@ -10,7 +10,7 @@ const Footer = (props) => {
                         <div className="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
                             <div className="footer__widget mb-50">
                                 <div className="footer__widget-title mb-25">
-                                    <div className="footer__logo"><a href="/"><img src="/img/logo/logo.png" alt="logo" /></a></div>
+                                    <div className="footer__logo"><a href="/"><img src="./img/logo/logo-fin4.png" alt="logo" /></a></div>
                                 </div>
                                 <div className="footer__widget-content">
                                     <p>Ever since we started using we’ve , and more.</p>
