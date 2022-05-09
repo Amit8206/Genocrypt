@@ -5,7 +5,7 @@ const Footer = (props) => {
         <footer className="footer__area grey-bg-3 pt-270 p-relative undefined">
             <div className="footer__shape"><img className="footer-circle-1" src="/img/icon/footer/home-1/circle-1.png" alt="" /><img className="footer-circle-2" src="/img/icon/footer/home-1/circle-2.png" alt="" /></div>
             <div className="footer__top pb-65">
-                <div className="container">
+                <div className="container" style={{ maxWidth: '1760px' }}>
                     <div className="row">
                         <div className="col-xxl-3 col-xl-3 col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
                             <div className="footer__widget mb-50">
