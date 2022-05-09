@@ -53,7 +53,7 @@ const Home = (props) => {
             <section className="services__area p-relative pt-150 pb-130">
                 <div className="services__shape"><img className="services-circle-1" src="/img/icon/services/home-1/circle-1.png" alt="" /><img className="services-circle-2" src="/img/icon/services/home-1/circle-2.png" alt="" /><img className="services-dot" src="/img/icon/services/home-1/dot.png" alt=""
                 /><img className="services-triangle" src="/img/icon/services/home-1/triangle.png" alt="" /></div>
-                <div className="container">
+                <div className="container" style={{ maxWidth: '1760px' }}>
                     <div className="row">
                         <div className="col-xxl-6 offset-xxl-3 col-xl-6 offset-xl-3 col-lg-6 col-md-10 offset-md-1 p-0">
                             <div className="section__title-wrapper text-center mb-75 wow fadeInUp" data-wow-delay=".3s">
@@ -112,7 +112,7 @@ const Home = (props) => {
             <section className="about__area pb-120 p-relative">
                 <div className="about__shape"><img className="about-triangle" src="/img/icon/about/home-1/triangle.png" alt="" /><img className="about-circle" src="/img/icon/about/home-1/circle.png" alt="" /><img className="about-circle-2" src="/img/icon/about/home-1/circle-2.png" alt="" /><img className="about-circle-3"
                     src="/img/icon/about/home-1/circle-3.png" alt="" /></div>
-                <div className="container">
+                <div className="container" style={{ maxWidth: '1760px' }}>
                     <div className="row align-items-center">
                         <div className="col-xxl-5 col-xl-6 col-lg-6 col-md-9">
                             <div className="about__wrapper mb-10">
@@ -136,7 +136,7 @@ const Home = (props) => {
             <section className="about__area pb-160 pt-80 p-relative">
                 <div className="about__shape"><img className="about-plus" src="./img/icon/about/home-1/plus.png" alt="" /><img className="about-triangle-2" src="/img/icon/about/home-1/triangle-2.png" alt="" /><img className="about-circle-4" src="/img/icon/about/home-1/circle-4.png" alt="" /><img className="about-circle-5"
                     src="./img/icon/about/home-1/circle-5.png" alt="" /></div>
-                <div className="container">
+                <div className="container" style={{ maxWidth: '1760px' }}>
                     <div className="row align-items-center">
                         <div className="col-xxl-6 col-xl-6 col-lg-6">
                             <div className="about__thumb-wrapper p-relative ml--30 fix mr-70"><img src="/img/about/home-1/about-bg-2.png" alt="" />
@@ -158,7 +158,7 @@ const Home = (props) => {
                 </div>
             </section>
             <section className="price__area grey-bg pt-105 pb-90">
-                <div className="container">
+                <div className="container" style={{ maxWidth: '1760px' }}>
                     <div className="row">
                         <div className="col-xxl-7 col-xl-7 col-lg-8">
                             <div className="section__title-wrapper mb-65 wow fadeInUp" data-wow-delay=".3s">
@@ -227,7 +227,7 @@ const Home = (props) => {
             <section className="testimonial__area pt-150 pb-70 p-relative overflow-y-visible">
                 <div className="circle-animation testimonial"><span></span></div>
                 <div className="testimonial__shape"><img className="testimonial-circle-1" src="/img/icon/testimonial/home-1/circle-1.png" alt="" /><img className="testimonial-circle-2" src="/img/icon/testimonial/home-1/circle-2.png" alt="" /></div>
-                <div className="container">
+                <div className="container" style={{ maxWidth: '1760px' }}>
                     <div className="row">
                         <div className="col-xxl-6 offset-xxl-3 col-xl-8 offset-xl-2 col-lg-8 offset-lg-2">
                             <div className="section__title-wrapper text-center section-padding mb-65 wow fadeInUp" data-wow-delay=".3s">
@@ -423,7 +423,7 @@ const Home = (props) => {
             <section className="features__area pt-60 pb-155 p-relative overflow-y-visible">
                 <div className="circle-animation features"><span></span></div>
                 <div className="features__shape"><img className="features-circle-1" src="/img/icon/features/home-1/circle-1.png" alt="" /></div>
-                <div className="container">
+                <div className="container" style={{ maxWidth: '1760px' }}>
                     <div className="row">
                         <div className="col-xxl-6 col-xl-6 col-lg-6">
                             <div className="section__title-wrapper mb-65 wow fadeInUp" data-wow-delay=".3s">
