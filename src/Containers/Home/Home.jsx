@@ -158,7 +158,7 @@ const Home = (props) => {
                 </div>
             </section>
             <section className="price__area grey-bg pt-105 pb-90">
-                <div className="container" style={{ maxWidth: '1760px' }}>
+                <div className="container" style={{ maxWidth: '1550px' }}>
                     <div className="row">
                         <div className="col-xxl-7 col-xl-7 col-lg-8">
                             <div className="section__title-wrapper mb-65 wow fadeInUp" data-wow-delay=".3s">
@@ -227,7 +227,7 @@ const Home = (props) => {
             <section className="testimonial__area pt-150 pb-70 p-relative overflow-y-visible">
                 <div className="circle-animation testimonial"><span></span></div>
                 <div className="testimonial__shape"><img className="testimonial-circle-1" src="/img/icon/testimonial/home-1/circle-1.png" alt="" /><img className="testimonial-circle-2" src="/img/icon/testimonial/home-1/circle-2.png" alt="" /></div>
-                <div className="container" style={{ maxWidth: '1760px' }}>
+                <div className="container" style={{ maxWidth: '1550px' }}>
                     <div className="row">
                         <div className="col-xxl-6 offset-xxl-3 col-xl-8 offset-xl-2 col-lg-8 offset-lg-2">
                             <div className="section__title-wrapper text-center section-padding mb-65 wow fadeInUp" data-wow-delay=".3s">
@@ -423,7 +423,7 @@ const Home = (props) => {
             <section className="features__area pt-60 pb-155 p-relative overflow-y-visible">
                 <div className="circle-animation features"><span></span></div>
                 <div className="features__shape"><img className="features-circle-1" src="/img/icon/features/home-1/circle-1.png" alt="" /></div>
-                <div className="container" style={{ maxWidth: '1760px' }}>
+                <div className="container" style={{ maxWidth: '1550px' }}>
                     <div className="row">
                         <div className="col-xxl-6 col-xl-6 col-lg-6">
                             <div className="section__title-wrapper mb-65 wow fadeInUp" data-wow-delay=".3s">
