@@ -66,7 +66,7 @@ const Header = (props) => {
     return (
         <header>
             <div id="header-sticky" className="header__area header__transparent header__padding ">
-                <div className="container">
+                <div className="container" style={{ maxWidth: '1760px' }}>
                     <div className="row align-items-center">
                         <div className="col-xxl-3 col-xl-3 col-lg-2 col-md-6 col-6">
                             <div className="logo"><a href="/"><img src="./img/logo/logo-fin4.png" alt="logo" /></a></div>

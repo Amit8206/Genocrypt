@@ -24,7 +24,7 @@ const Home = (props) => {
             <section className="hero__area hero__height p-relative d-flex align-items-center" style={{ backgroundImage: "url(./img/hero/home-1/hero-bg.jpg)" }}>
                 <div className="hero__shape"><img className="hero-circle-1" src="./img/icon/hero/home-1/circle-1.png" alt="" /><img className="hero-circle-2" src="/img/icon/hero/home-1/circle-2.png" alt="" /><img className="hero-triangle-1" src="/img/icon/hero/home-1/triangle-1.png" alt="" /><img
                     className="hero-triangle-2" src="./img/icon/hero/home-1/triangle-2.png" alt="" /></div>
-                <div className="container">
+                <div className="container" style={{ maxWidth: '1760px' }}>
                     <div className="row align-items-center">
                         <div className="col-xxl-7 col-xl-6 col-lg-6">
                             <div className="hero__content pr-80">

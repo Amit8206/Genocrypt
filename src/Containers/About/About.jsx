@@ -7,6 +7,8 @@ const About = (props) => {
 
     return (
         <>
+
+        {/* <div><h5>Welcome to Genocrypt About Page</h5></div> */}
             <section className="page__title-area page__title-height d-flex align-items-center fix p-relative z-index-1"
                 style={{ backgroundImage: "url(./img/page-title/page-title.jpg)" }}>
                 <div className="page__title-shape">
