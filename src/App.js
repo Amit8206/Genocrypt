@@ -17,6 +17,7 @@ import {
   Route,
   Link
 } from "react-router-dom";
+import Contact from './Containers/Contact/Contact';
 
 
 function App() {
@@ -40,6 +41,7 @@ function App() {
         {/* </Route> */}
         {/* <Route exact path='/home2' element={<Home2 />} /> */}
         <Route path='/about' element={<About />} />
+        <Route path='/contact' element={<Contact />} />
         <Route path="/signin" element={<SignIn />} />
         <Route path="/signup" element={<SignUp />} />
       </Routes>

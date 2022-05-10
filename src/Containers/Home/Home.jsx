@@ -39,7 +39,8 @@ const Home = (props) => {
                         <div className="col-xxl-5 col-xl-6 col-lg-6">
                             <div className="hero__thumb text-end ml-220">
                                 <div className="hero__thumb-wrapper p-relative "><img className="hero-circle" src="./img/hero/home-1/hero-circle.png" alt="" />
-                                    <div className="hero__thumb-shape shape-1"><img src="./img/hero/home-1/hero-1.png" alt="" /></div>
+                                    <div className="hero__thumb-shape shape-1" 
+                                    style={{    marginRight: "160px", marginTop: '25px'}}><img src="./img/hero/home-1/hero-1.png" alt="" /></div>
                                     <div className="hero__thumb-shape shape-2"><img src="./img/hero/home-1/hero-2.png" alt="" /></div>
                                     <div className="hero__thumb-shape shape-3"><img src="./img/hero/home-1/hero-3.png" alt="" /></div>
                                     <div className="hero__thumb-shape shape-4"><img src="./img/hero/home-1/hero-4.png" alt="" /></div>

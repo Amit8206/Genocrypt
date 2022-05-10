@@ -68,11 +68,11 @@ const Header = (props) => {
             <div id="header-sticky" className="header__area header__transparent header__padding ">
                 <div className="container" style={{ maxWidth: '1760px' }}>
                     <div className="row align-items-center">
-                        <div className="col-xxl-3 col-xl-3 col-lg-2 col-md-6 col-6">
-                            <div className="logo"><a href="/"><img src="./img/logo/logo-fin4.png" alt="logo" /></a></div>
+                        <div className="col-xxl-3 col-xl-3 col-lg-2 col-md-6 col-6" style={{ marginTop: '20px' }}>
+                            <div className="logo"><a href="/"><img src="./img/logo/logo.png" alt="logo" /></a></div>
                         </div>
                         <div className="col-xxl-6 col-xl-6 col-lg-7 d-none d-lg-block">
-                            <div className="main-menu">
+                            <div className="main-menu" style={{ marginLeft: '400px' }}>
                                 <nav>
                                     <ul>
                                         <li className="has-drop down"><a href="/">Home</a>
