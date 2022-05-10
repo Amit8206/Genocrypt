@@ -28,7 +28,7 @@ const Home = (props) => {
                     <div className="row align-items-center">
                         <div className="col-xxl-7 col-xl-6 col-lg-6">
                             <div className="hero__content pr-80">
-                                <h2 className="hero__title wow fadeInUp" data-wow-delay=".3s">Creative Saas Design Software.</h2>
+                                <h2 className="hero__title wow fadeInUp" data-wow-delay=".3s">Leveraging Tech to drive a better IT experience.</h2>
                                 <p className="wow fadeInUp" data-wow-delay=".5s">Unify your team’s video creation process under one repository to create, collaborat scale.</p>
                                 <div className="hero__search wow fadeInUp" data-wow-delay=".7s">
                                     <form action="#"><input type="email" placeholder="Enter your email.." /><button type="submit" className="w-btn w-btn-2">search</button></form>
@@ -40,7 +40,7 @@ const Home = (props) => {
                             <div className="hero__thumb text-end ml-220">
                                 <div className="hero__thumb-wrapper p-relative "><img className="hero-circle" src="./img/hero/home-1/hero-circle.png" alt="" />
                                     <div className="hero__thumb-shape shape-1" 
-                                    style={{    marginRight: "160px", marginTop: '25px'}}><img src="./img/hero/home-1/hero-1.png" alt="" /></div>
+                                    style={{    marginRight: "160px", marginTop: '25px'}}><img src="./img/hero/home-1/hero-1.gif" alt="" /></div>
                                     <div className="hero__thumb-shape shape-2"><img src="./img/hero/home-1/hero-2.png" alt="" /></div>
                                     <div className="hero__thumb-shape shape-3"><img src="./img/hero/home-1/hero-3.png" alt="" /></div>
                                     <div className="hero__thumb-shape shape-4"><img src="./img/hero/home-1/hero-4.png" alt="" /></div>
